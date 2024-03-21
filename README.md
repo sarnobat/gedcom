@@ -1,5 +1,7 @@
 # gedcom
-starting point for all things gedcom
+Starting point for all things gedcom
+
+
 
 ## To tree
 I am not sure if gedcom2csv exists.
@@ -31,3 +33,6 @@ I am not sure if gedcom2csv exists.
 
 ```
 
+
+## Misc
+* trying to remember all the tools needed is tough. Create a monolith program once you know what your use cases are. Composable glue is best for prototyping.

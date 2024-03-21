@@ -20,6 +20,7 @@ I am not sure if gedcom2csv exists.
 ```
 
 ## Other
+tree2fs is under golang/6_mwk2fs
 ```
 +---------------+  gedcom2mwk   +--------------------------+  tree2fs   +----------------------------------------+  tree   +---------------------+  r/9_dendrogram_family_tree/plot.r   +------------------------------+
 | rohidekar.ged | ------------> | rohidekar_tree.auto.mwk  | ---------> | /tmp/Venkatesh Rohidekar (-- Tarabai)" | ------> | rohidekar.auto.json | -----------------------------------> | radialTreefromRohidekar.html |

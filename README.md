@@ -1,10 +1,13 @@
 # gedcom
 starting point for all things gedcom
 
+## To tree
 I am not sure if gedcom2csv exists.
 ```
 [ged] -- gedcom2csv --> [parent_child.csv] -- csv2path.java --> [paths.txt] -- path2indented.py --> [indented.txt]
 ```
+
+## To html bullets
 ```
 [ged] -- gedcom2mwk.java --> [parent_child.csv] -- csv2path.java --> [paths.txt] -- path2indented.py --> [indented.txt]
 ```

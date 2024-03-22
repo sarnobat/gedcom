@@ -1,6 +1,21 @@
 # gedcom
 Starting point for all things gedcom
 
+-   [gedcom](#gedcom)
+    -   [To tree](#to-tree)
+    -   [To html bullets](#to-html-bullets)
+        -   [example](#example)
+    -   [Other](#other)
+    -   [Misc](#misc)
+    -   [Sample runs](#sample-runs)
+        -   [gedcom2csv.awk](#gedcom2csv.awk)
+        -   [gedcom_indent.go](#gedcom_indent.go)
+        -   [gedcom.go](#gedcom.go)
+        -   [gedcom2mwk.java](#gedcom2mwk.java)
+        -   [gedcom2mwk.go](#gedcom2mwk.go)
+        -   [gedcom_tree.go](#gedcom_tree.go)
+        -   [More examples](#more-examples)
+
 TODO: create yEd from examples in `/Volumes/git/2023/repos_personal.git/computers.git/mac/bin/2023/gedcom2csv.sh`
 
 ## To tree

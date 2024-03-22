@@ -51,9 +51,10 @@ tree2fs is under golang/6_mwk2fs
 
 ### gedcom2mwk
 ```
-/Volumes/git/2023/github/2023/graalvm_aotc_java/8_gedcom_sharp_tools/gedcom2mwk.osx | head** Bhimka Rao Rohidekar (-- Radhabai)
+/Volumes/git/2023/github/2023/graalvm_aotc_java/8_gedcom_sharp_tools/gedcom2mwk.osx | head
 ```
 ```
+** Bhimka Rao Rohidekar (-- Radhabai)
 ** Anand Rao Rohidekar
 ** Venkawwa Rohidekar
 ** Laxman Rao Rohidekar (-- Renubai) (-- Sitabai)

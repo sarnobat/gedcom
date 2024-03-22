@@ -2,15 +2,6 @@
 Starting point for all things gedcom
 
 
-* gedcom2csv.awk
-* gedcom2mwk.go
-* gedcom2mwk
-* gedcom
-* gedcom_tree.go
-* gedcom2csv.sh
-* gedcom_list.groovy
-* gedcom_indent.go
-
 ## To tree
 I am not sure if gedcom2csv exists.
 ```
@@ -45,3 +36,29 @@ tree2fs is under golang/6_mwk2fs
 
 ## Misc
 * trying to remember all the tools needed is tough. Create a monolith program once you know what your use cases are. Composable glue is best for prototyping.
+
+## Sample runs
+
+
+* gedcom2csv.awk
+* ✔️ gedcom2mwk.go
+* gedcom2mwk
+* gedcom
+* gedcom_tree.go
+* gedcom2csv.sh
+* gedcom_list.groovy
+* gedcom_indent.go
+
+### gedcom2mwk.go
+
+go run /Volumes/git/2023/github/2023/repos.git/golang/3_gedcom/gedcom2mwk.go 2>/dev/null | grep '^*' | head
+* Bhimka Rao Rohidekar (d. 1920)
+* Anand Rao Rohidekar (d. 1895)
+* Venkawwa Rohidekar
+* Laxman Rao Rohidekar (b. 1847, d. 1934)
+* Venkat Rao Rohidekar (b. 1825)  (-- Tarabai)
+** Bhimka Rao Rohidekar (d. 1920)  (-- Radhabai)
+** Anand Rao Rohidekar (d. 1895)
+** Venkawwa Rohidekar
+** Laxman Rao Rohidekar (b. 1847, d. 1934)  (-- Renubai)
+*** Venkatesh Rohidekar (b. 1889, d. 1906)  (-- Rangubai Padki)

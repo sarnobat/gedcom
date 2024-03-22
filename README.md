@@ -2,6 +2,14 @@
 Starting point for all things gedcom
 
 
+* gedcom2csv.awk
+* gedcom2mwk.go
+* gedcom2mwk
+* gedcom
+* gedcom_tree.go
+* gedcom2csv.sh
+* gedcom_list.groovy
+* gedcom_indent.go
 
 ## To tree
 I am not sure if gedcom2csv exists.

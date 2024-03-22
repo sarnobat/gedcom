@@ -10,7 +10,7 @@ Starting point for all things gedcom
     -   [Sample runs](#sample-runs)
         -   [gedcom2csv.awk](#gedcom2csvawk)
         -   [gedcom_indent.go](#gedcom_indentgo)
-        -   [gedcom.go](#gedcom.go)
+        -   [gedcom.go](#gedcomgo)
         -   [gedcom2mwk.java](#gedcom2mwkjava)
         -   [gedcom2mwk.go](#gedcom2mwkgo)
         -   [gedcom_tree.go](#gedcom_treego)

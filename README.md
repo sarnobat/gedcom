@@ -8,12 +8,12 @@ Starting point for all things gedcom
     -   [Other](#other)
     -   [Misc](#misc)
     -   [Sample runs](#sample-runs)
-        -   [gedcom2csv.awk](#gedcom2csv.awk)
-        -   [gedcom_indent.go](#gedcom_indent.go)
+        -   [gedcom2csv.awk](#gedcom2csvawk)
+        -   [gedcom_indent.go](#gedcom_indentgo)
         -   [gedcom.go](#gedcom.go)
-        -   [gedcom2mwk.java](#gedcom2mwk.java)
-        -   [gedcom2mwk.go](#gedcom2mwk.go)
-        -   [gedcom_tree.go](#gedcom_tree.go)
+        -   [gedcom2mwk.java](#gedcom2mwkjava)
+        -   [gedcom2mwk.go](#gedcom2mwkgo)
+        -   [gedcom_tree.go](#gedcom_treego)
         -   [More examples](#more-examples)
 
 TODO: create yEd from examples in `/Volumes/git/2023/repos_personal.git/computers.git/mac/bin/2023/gedcom2csv.sh`

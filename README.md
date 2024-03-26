@@ -1,6 +1,15 @@
-# gedcom
+# gedcom 2023-04
+
 Starting point for all things gedcom
 
+
+```
++---------------+  gedcom2csv.awk   +-------------------------+  csv_isolate.sh   +--------------------------+     +-----------------------+     +----------------------------------+
+| rohidekar.ged | ----------------> | /tmp/gedcom2csv.awk.out | ----------------> | gedcom_children.auto.csv | --> | /tmp/gedcom_paths.txt | --> | /tmp/gedcom_paths_with_names.txt |
++---------------+                   +-------------------------+                   +--------------------------+     +-----------------------+     +----------------------------------+
+```
+
+# gedcom 2023-03
 -   [gedcom](#gedcom)
     -   [To tree](#to-tree)
     -   [To html bullets](#to-html-bullets)

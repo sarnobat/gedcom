@@ -1,3 +1,10 @@
+# gedcom 2023-05
+* TODO: create script that creates a text template for a new person, `~/bin/gedcom_create_person_template.sh`
+   * The output of that should be cut and paste into gedcom
+ 
+# gedcom 2023-05
+See `gedcom_expo.sh` for a breakdown of all tools I have
+
 # gedcom 2023-04
 
 Starting point for all things gedcom

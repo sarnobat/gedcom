@@ -1,6 +1,22 @@
-# gedcom
+# gedcom 2023-05
+* TODO: create script that creates a text template for a new person, `~/bin/gedcom_create_person_template.sh`
+   * The output of that should be cut and paste into gedcom
+ 
+# gedcom 2023-05
+See `gedcom_expo.sh` for a breakdown of all tools I have
+
+# gedcom 2023-04
+
 Starting point for all things gedcom
 
+
+```
++---------------+  gedcom2csv.awk   +-------------------------+  csv_isolate.sh   +--------------------------+  children_of_individual.sh   +-----------------------+  gedcom_replace_codes.sh   +----------------------------------+
+| rohidekar.ged | ----------------> | /tmp/gedcom2csv.awk.out | ----------------> | gedcom_children.auto.csv | ---------------------------> | /tmp/gedcom_paths.txt | -------------------------> | /tmp/gedcom_paths_with_names.txt |
++---------------+                   +-------------------------+                   +--------------------------+                              +-----------------------+                            +----------------------------------+
+```
+
+# gedcom 2023-03
 -   [gedcom](#gedcom)
     -   [To tree](#to-tree)
     -   [To html bullets](#to-html-bullets)

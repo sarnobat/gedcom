@@ -13,7 +13,7 @@ Starting point for all things gedcom
         -   [gedcom.go](#gedcomgo)
         -   [gedcom2mwk.java](#gedcom2mwkjava)
         -   [gedcom2mwk.go](#gedcom2mwkgo)
-        -   [gedcom_tree.go](#gedcom_treego)
+        -   [(incomplete) gedcom_tree.go](#gedcom_treego)
         -   [More examples](#more-examples)
 
 TODO: create yEd from examples in `/Volumes/git/2023/repos_personal.git/computers.git/mac/bin/2023/gedcom2csv.sh`
@@ -31,8 +31,13 @@ I am not sure if gedcom2csv exists.
 
 ### example
 ```
-  ./gedcom.osx edges  | /Volumes/git/github/graalvm_aotc_java/9_csv2path/csv2path.osx | path2indent.osx --absolute
+./gedcom.osx edges  | /Volumes/git/github/graalvm_aotc_java/9_csv2path/csv2path.osx | path2indent.osx --absolute
 ```
+
+```
+./gedcom.osx find  | /Volumes/git/github/graalvm_aotc_java/9_csv2path/csv2path.osx | path2indent.osx --absolute
+```
+
 
 ## Other
 tree2fs is under golang/6_mwk2fs
@@ -62,6 +67,8 @@ tree2fs is under golang/6_mwk2fs
 * ✔️ gedcom_tree.go
 * ✔️ gedcom_indent.go
 * ✔️ gedcom2csv.awk
+* csv2path
+* path2indented.py
 
 
 ### gedcom2csv.awk
@@ -97,6 +104,7 @@ go run /Volumes/git/2023/github/2023/repos.git/golang/3_gedcom/gedcom_indent.go 
 ```
 
 ### gedcom.go
+
 ```
 go run /Volumes/git/2023/github/2023/repos.git/golang/3_gedcom/main.go | head
 ```

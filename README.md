@@ -7,7 +7,7 @@ See `gedcom_expo.sh` for a breakdown of all tools I have
 
 # gedcom 2023-04
 
-Starting point for all things gedcom
+Starting point for all things gedcom (started in `gedcom_tools.graphml`)
 
 
 ```
